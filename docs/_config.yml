@@ -1,1 +1,1 @@
-include: [".well-known", "img"]
+include: [".well-known", "img", "v0"]
